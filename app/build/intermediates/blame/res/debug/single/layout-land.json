@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragments_demo.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout-land\\fragments_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\player_controls_demo.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout-land\\player_controls_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\playerview_demo.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\layout-land\\playerview_demo.xml"
+    }
+]

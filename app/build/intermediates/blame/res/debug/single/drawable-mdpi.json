@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading_thumbnail.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\drawable-mdpi\\loading_thumbnail.png"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\no_thumbnail.png",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\drawable-mdpi\\no_thumbnail.png"
+    }
+]

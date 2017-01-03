@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\delaroystudios\Desktop\pro\sample1\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\delaroystudios\Desktop\pro\sample1\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_9426ba0b417748c0b23dc1ff39bc8e17e83a86d9.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,68 @@
+[
+    {
+        "outputFile": "C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 10,
+                    "endOffset": 287
+                },
+                "from": {
+                    "file": "C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 795,
+                        "endLine": 24,
+                        "endColumn": 10,
+                        "endOffset": 1027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 292,
+                    "endColumn": 68,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1030,
+                        "endColumn": 66,
+                        "endOffset": 1094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endLine": 9,
+                    "endColumn": 10,
+                    "endOffset": 496
+                },
+                "from": {
+                    "file": "C:\\Users\\delaroystudios\\Desktop\\pro\\sample1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 657,
+                        "endLine": 20,
+                        "endColumn": 10,
+                        "endOffset": 792
+                    }
+                }
+            }
+        ]
+    }
+]
